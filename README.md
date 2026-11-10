@@ -1,2 +1,2 @@
 # courtesy
-A dual T flip-flop script for Monome Crow
+A dual T flip-flop script for Crow
