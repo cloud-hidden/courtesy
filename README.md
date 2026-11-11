@@ -20,4 +20,4 @@ You can define a couple of gate parameters before running the script.
 All outputs share the same gate parameters.  
   
 `gate_volts`: the amplitude of the gates in volts.  
-`slew_time`: the time is takes to reach `gate_volts` in seconds. 
+`slew_time`: the time it takes to reach `gate_volts` in seconds. 
