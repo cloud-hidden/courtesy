@@ -2,12 +2,13 @@
 
 A dual T flip-flop script for Crow
 
+
 ### <ins>Overview</ins>  
 
-Courtesy was made originally to be a source of extremely long gates.
+Courtesy was designed to fill a need for long gates to control generative patches.   
 
-
-
+It has two independent, identical channels.  
+Each channel has a trigger in, a gate out, and an inverted gate out. 
   
 ### <ins>Setup</ins>  
 **Input 1:** Trigger Gate 1  
