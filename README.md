@@ -15,7 +15,7 @@ It has two identical, independent channels.
 |**Trigger Input**|Input 1  |Input 2|
 |**Gate Output**|Output 1 |Output 3|
 |**Inverted Gate Output**|Output 2 |Output 4|
-  
+
 You can define a couple of gate parameters before running the script.   
 All outputs share the same gate parameters.  
   
