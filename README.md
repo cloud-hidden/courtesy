@@ -5,7 +5,7 @@ A dual T flip-flop script for Crow
 
 ### <ins>Overview</ins>  
 
-Courtesy was designed to fill a need for long gates to control generative patches.  
+Courtesy was designed to fill a need for long gates.
 ### <ins>Setup</ins>  
 
 There are two identical, independent channels.  
