@@ -8,7 +8,7 @@ A dual T flip-flop script for Crow
 Courtesy was designed to fill a need for long gates to control generative patches.  
 ### <ins>Setup</ins>  
 
-It has two independent, identical channels.  
+It has two identical, independent channels.  
 
 |Channel|1|2 |
 |:--:|:--:|:--:|
